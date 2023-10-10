@@ -17,42 +17,42 @@
     },
     "guideData": [
         {
-            "image_link": "https://iili.io/J3zFMf2.webp",
+            "image_link": "https://iili.io/J3zCOPf.webp",
             "title": "barvikha helper mod 1",
             "text_Content_": "Create a mod that improves the navigation system in Barvikha, adding waypoints, markers, or a more detailed map."
         },
         {
-            "image_link": "https://iili.io/J3zFEil.webp",
+            "image_link": "https://iili.io/J3zCvcl.webp",
             "title": "barvikha helper mod 2",
             "text_Content_": "Implement a GPS-like feature to help players find specific locations or objectives more easily."
         },
         {
-            "image_link": "https://iili.io/J3osFAF.jpg",
+            "image_link": "https://iili.io/J3zCkF4.webp",
             "title": "barvikha helper mod 3",
             "text_Content_": "Develop a mod that allows players to customize and decorate their surroundings in Barvikha."
         },
         {
-            "image_link": "https://iili.io/J3os391.webp",
+            "image_link": "https://iili.io/J3zCNMG.webp",
             "title": "barvikha helper mod 4",
             "text_Content_": "Include options for changing interior and exterior designs of buildings, adding furniture, and personalizing spaces."
         },
         {
-            "image_link": "https://iili.io/J3oiy6Q.webp",
+            "image_link": "https://iili.io/J3zC8S2.webp",
             "title": "barvikha helper mod 5",
             "text_Content_": "Build a mod that enhances interaction between players in Barvikha."
         },
         {
-            "image_link": "https://iili.io/J3osJcB.webp",
+            "image_link": "https://iili.io/J3zCgA7.webp",
             "title": "barvikha helper mod 6",
             "text_Content_": "Implement features such as in-game messaging, player-to-player trading systems, or cooperative gameplay elements."
         },
         {
-            "image_link": "https://iili.io/J3osHFV.webp",
+            "image_link": "https://iili.io/J3zCU9S.webp",
             "title": "barvikha helper mod 7",
             "text_Content_": "Create a mod that revamps the economic system in Barvikha, introducing new trade routes, markets, and resources."
         },
         {
-            "image_link": "https://iili.io/J3osd8P.webp",
+            "image_link": "https://iili.io/J3zCrN9.webp",
             "title": "barvikha helper mod 8",
             "text_Content_": "Balance the in-game economy by adjusting prices and availability of items."
         }
