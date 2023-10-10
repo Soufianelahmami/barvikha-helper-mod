@@ -1,56 +1,60 @@
 {
-    "ads": {
-        "unity_inter": "Interstitial_Android",
-        "unity_banner": "Banner_Android",
-        "unity_reward": "Rewarded_Android",
-        "unity_gameid": "5082535",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-        "facebook_banner": "IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-        "facebook_native": "IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-        "facebook_reward": "PLAYABLE#1444095999348608_1582552458836294",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "admob_reward": "ca-app-pub-3940256099942544/5224354917",
-        "yandex_banner": "R-M-DEMO-320x100",
-        "yandex_inter": "R-M-DEMO-interstitial",
-        "yandex_native": "R-M-DEMO-native-i",
-        "yandex_reward": "demo-rewarded-yandex",
-        "yandex_appopen": "demo-appopenad-yandex",
-        "vungle_appid": "645e64defe20a95ccb12bd7b ",
-        "vungle_inter": "INTER-5944534",
-        "vungle_banner": "DEFAULTBANNER-5844358",
-        "vungle_reward": "REWARD-7025613",
-        "download_dialog_txt": "download text from server",
-        "banner_network_choice": "admob",
-        "interstisial_network_choice": "admob",
-        "reward_network_choice": "admob",
-        "native_network_choice": "admob"
+    "ADS": {
+        "banner_type_1": "yandex",
+        "inter_type_1": "yandex",
+        "native_type_1": "yandex",
+        "reward_type_1": "yandex",
+        "native_or_mrec_1": "native",
+        "ironsource_id": "ironsource_id_value",
+        "unity_id": "unity_id_value",
+        "banner_id_1": "demo-banner-yandex",
+        "interstitial_id_1": "demo-interstitial-yandex",
+        "reward_id_1": "demo-rewarded-yandex",
+        "mrec_id_1": "mrec_id_1_value",
+        "native_id_1": "demo-native-content-yandex",
+        "open_app_id": "demo-appopenad-yandex",
+        "store_link": "demo-native-content-yandex"
     },
-    "my_data": [
+    "guideData": [
         {
-            "desc1": "Create a mod that simulates the management of luxury properties in Barvikha. ",
-            "photo1": "https://iili.io/J3osd8P.webp"
+            "image_link": "https://iili.io/J3zFMf2.webp",
+            "title": "barvikha helper mod 1",
+            "text_Content_": "Create a mod that improves the navigation system in Barvikha, adding waypoints, markers, or a more detailed map."
         },
         {
-            "desc2": "Players can buy, sell, and upgrade properties, dealing with high-end clients and their specific needs.",
-            "photo2": "https://iili.io/J3osHFV.webp"
+            "image_link": "https://iili.io/J3zFEil.webp",
+            "title": "barvikha helper mod 2",
+            "text_Content_": "Implement a GPS-like feature to help players find specific locations or objectives more easily."
         },
         {
-            "desc3": "Implement challenges such as maintaining the property value, handling celebrity residents, and organizing exclusive events.",
-            "photo3": "https://iili.io/J3osJcB.webp"
+            "image_link": "https://iili.io/J3osFAF.jpg",
+            "title": "barvikha helper mod 3",
+            "text_Content_": "Develop a mod that allows players to customize and decorate their surroundings in Barvikha."
         },
         {
-            "desc4": "Develop a mod where players take on the role of a personal assistant in Barvikha",
-            "photo4": "https://iili.io/J3oiy6Q.webp"
+            "image_link": "https://iili.io/J3os391.webp",
+            "title": "barvikha helper mod 4",
+            "text_Content_": "Include options for changing interior and exterior designs of buildings, adding furniture, and personalizing spaces."
         },
         {
-            "desc5": "Manage the schedules of affluent clients, organize events, and handle various tasks to keep everything running smoothly.",
-            "photo5": "https://iili.io/J3os391.webp"
+            "image_link": "https://iili.io/J3oiy6Q.webp",
+            "title": "barvikha helper mod 5",
+            "text_Content_": "Build a mod that enhances interaction between players in Barvikha."
         },
         {
-            "descd": "Introduce challenges such as handling paparazzi, coordinating with other staff, and solving problems discreetly.",
-            "photod": "https://iili.io/J3osFAF.jpg"
+            "image_link": "https://iili.io/J3osJcB.webp",
+            "title": "barvikha helper mod 6",
+            "text_Content_": "Implement features such as in-game messaging, player-to-player trading systems, or cooperative gameplay elements."
+        },
+        {
+            "image_link": "https://iili.io/J3osHFV.webp",
+            "title": "barvikha helper mod 7",
+            "text_Content_": "Create a mod that revamps the economic system in Barvikha, introducing new trade routes, markets, and resources."
+        },
+        {
+            "image_link": "https://iili.io/J3osd8P.webp",
+            "title": "barvikha helper mod 8",
+            "text_Content_": "Balance the in-game economy by adjusting prices and availability of items."
         }
     ]
 }
