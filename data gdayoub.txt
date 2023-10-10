@@ -29,28 +29,28 @@
     },
     "my_data": [
         {
-            "desc1": "description1 ser ",
-            "photo1": "https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"
+            "desc1": "Create a mod that simulates the management of luxury properties in Barvikha. ",
+            "photo1": "https://iili.io/J3osd8P.webp"
         },
         {
-            "desc2": "description2 ser",
-            "photo2": "https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"
+            "desc2": "Players can buy, sell, and upgrade properties, dealing with high-end clients and their specific needs.",
+            "photo2": "https://iili.io/J3osHFV.webp"
         },
         {
-            "desc3": "description3 ser",
-            "photo3": "https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"
+            "desc3": "Implement challenges such as maintaining the property value, handling celebrity residents, and organizing exclusive events.",
+            "photo3": "https://iili.io/J3osJcB.webp"
         },
         {
-            "desc4": "description4 ser",
-            "photo4": "https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"
+            "desc4": "Develop a mod where players take on the role of a personal assistant in Barvikha",
+            "photo4": "https://iili.io/J3oiy6Q.webp"
         },
         {
-            "desc5": "description5 ser",
-            "photo5": "https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"
+            "desc5": "Manage the schedules of affluent clients, organize events, and handle various tasks to keep everything running smoothly.",
+            "photo5": "https://iili.io/J3os391.webp"
         },
         {
-            "descd": "description d ser",
-            "photod": "https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"
+            "descd": "Introduce challenges such as handling paparazzi, coordinating with other staff, and solving problems discreetly.",
+            "photod": "https://iili.io/J3osFAF.jpg"
         }
     ]
 }
